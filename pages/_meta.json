@@ -1,7 +1,8 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "program": "Program codey",
+  "humans-computers": "Humans and Computers",
+  "conclusion": "Conclusion",
   "about": {
     "title": "About",
     "type": "page"
